@@ -11,3 +11,7 @@ This repository contains the implementation of the Tic-Tac-Toe game for Unity. T
 - **Addressables**: Utilized for managing game resources, providing more efficient resource loading and management.
 
 The implementation includes the core game logic as well as artificial intelligence (AI) logic for playing against the computer. The minimax algorithm with alpha-beta pruning and a specified depth of search was used as the AI algorithm. This algorithm enables the computer to make optimal decisions in the Tic-Tac-Toe game.
+
+Video:
+https://github.com/Tim4ek/Tic-Tac-Toe/assets/39025302/95ec2786-ae19-414d-a069-3455335579b1
+
